@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('geometry-g5ae656f56_1920.jpg');
+}
+#container{
+    width: 40vw;
+    margin: 10vh auto;
+    background-color: lightgray;
+    opacity: .9;
+    text-align: center;
+}
+#container_page{
+    width: 80vw;
+    margin: 10vh auto;
+    background-color: lightgray;
+    opacity: .9;
+    text-align: center;
+}
+form{
+    margin-top: 2vh;
+}
+#space{
+    height: 2vh;
+}
+#logInForm{
+    display: none;
+}
+textarea{
+    width: 30vw;
+}
